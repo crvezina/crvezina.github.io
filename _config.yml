@@ -6,4 +6,4 @@ author:
 description: "Great site about Colby Vezina on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/creative
+remote_theme: jekyll-theme-creative
