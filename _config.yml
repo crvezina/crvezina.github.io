@@ -1,2 +1,9 @@
-name: My Site
-theme: architect
+# Site settings
+title: About Colby
+author:
+  name: Colby Vezina
+  email: c.r.vezina@gmail.com
+description: "Great site about Colby Vezina on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/architect
